@@ -6,7 +6,7 @@ lecture.js plugin repository
 
 Plugins need to be included after lecture.js:
 
-```js
+```html
 <script src="lecture.js"></script>
 <!-- Include plugins here -->
 <script src="lecture.fragment.js"></script>
